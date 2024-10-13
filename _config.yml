@@ -16,9 +16,9 @@ collections:
 # Language-specific options
 defaults:
   - scope:
-      path: "pl"
+      path: "docs/pl"
     values:
-      lang: "docs/pl"
+      lang: "pl"
       permalink: /pl/:path/
   - scope:
       path: "docs/en"
