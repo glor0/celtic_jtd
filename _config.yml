@@ -16,17 +16,17 @@ collections:
 # Language-specific options
 defaults:
   - scope:
-      path: "pl"
+      path: ""
     values:
       lang: "pl"
-      permalink: /pl/:path/
+      permalink: /:path/
   - scope:
-      path: "en"
+      path: "docs/en"
     values:
       lang: "en"
       permalink: /en/:path/
   - scope:
-      path: "cs"
+      path: "docs/cs"
     values:
       lang: "cs"
       permalink: /cs/:path/
@@ -35,7 +35,7 @@ defaults:
 nav:
   pl:
     - title: "Główna"
-      url: /pl/
+      url: /
   en:
     - title: "Main"
       url: /en/
