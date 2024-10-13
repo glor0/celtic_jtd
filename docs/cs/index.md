@@ -1,11 +1,9 @@
 ---
-title: Glór
-layout: home
+layout: default
+title: "Hlavna"
+permalink: /cs/
 ---
 
-<!-- ![logo](logo_glor2.svg) -->
-<p align="center">
-<img src="logo_glor2.svg" width="300" height="300">
-</p>
+# Vítejte na stránce Glór
 
-Ahoj!
+Tohle je hlavní stránka v češtině.

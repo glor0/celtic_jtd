@@ -2,21 +2,23 @@ title: Glór
 description: Glór site using the Just the Docs theme
 theme: just-the-docs
 
+# Your site URL
 url: https://celtic_ytd.github.io
 
+# Auxiliary links (optional)
 aux_links:
   Template Repository: https://github.com/glor0/celtic_jtd
 
-# Navigation options
+# Enable the "docs" collection for language support
 collections:
   docs:
     output: true
     permalink: /:collection/:path/
 
-# Language-specific options
+# Language-specific configuration
 defaults:
   - scope:
-      path: "docs/pl"
+      path: ""
     values:
       lang: "pl"
       permalink: /pl/:path/
@@ -31,7 +33,7 @@ defaults:
       lang: "cs"
       permalink: /cs/:path/
 
-# Navigation structure for each language
+# Language-specific navigation (in header)
 nav:
   pl:
     - title: "Główna"

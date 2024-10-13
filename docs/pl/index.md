@@ -1,7 +1,13 @@
 ---
-title: Glór
-layout: home
+layout: default
+title: "Główna"
+permalink: /pl/
 ---
+
+# Witamy na stronie Glór
+
+To jest strona główna w języku polskim.
+
 
 <!-- ![logo](images/logo_glor2.svg) -->
 <p align="center">
