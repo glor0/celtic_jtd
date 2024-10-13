@@ -8,9 +8,6 @@ layout: home
 <img src="logo_glor2.svg" width="300" height="300">
 </p>
 
-[English](/en/) | [Cestinal](/cs/)
-
-
 **Zespół Glór to fantastycznie wykonany folk irlandzki, szkocki i bretoński**, a do tego mnóstwo wiedzy o kulturze celtyckiej i wiele lat doświadczenia scenicznego.
 Najłatwiej spotkać ich na żywo w co drugą środę na sesji irlandzkiej w Tawernie Pod Kilem we Wrocławiu na ul. Mikołaja, a kilka razy w roku - na polskich i czeskich imprezach folkowych.
 
