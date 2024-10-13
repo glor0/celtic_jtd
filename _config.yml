@@ -5,4 +5,40 @@ theme: just-the-docs
 url: https://celtic_ytd.github.io
 
 aux_links:
-  Template Repository: https://github.com/glor0/celtic_ytd
+  Template Repository: https://github.com/glor0/celtic_jtd
+
+# Navigation options
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+# Language-specific options
+defaults:
+  - scope:
+      path: "pl"
+    values:
+      lang: "pl"
+      permalink: /pl/:path/
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+      permalink: /en/:path/
+  - scope:
+      path: "cs"
+    values:
+      lang: "cs"
+      permalink: /cs/:path/
+
+# Navigation structure for each language
+nav:
+  pl:
+    - title: "Główna"
+      url: /pl/
+  en:
+    - title: "Main"
+      url: /en/
+  cs:
+    - title: "Hlavna"
+      url: /cs/
