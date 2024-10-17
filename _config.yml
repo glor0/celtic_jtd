@@ -2,8 +2,11 @@ title: Glór
 description: Glór site using the Just the Docs theme
 theme: just-the-docs
 
-# Your site URL
+# Site URL
 url: https://glor0.github.io/celtic_jtd
+# Repository name here
+baseurl: "/glor0"
+
 
 # Auxiliary links (optional)
 aux_links:
