@@ -1,6 +1,7 @@
 title: Glór
 description: Glór site using the Just the Docs theme
 theme: just-the-docs
+remote_theme: "just-the-docs/just-the-docs"
 
 # Site URL
 url: https://glor0.github.io/celtic_jtd
