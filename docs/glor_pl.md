@@ -1,5 +1,6 @@
 ---
 title: Zespół Glór
+layout: default
 nav_order: 2
 ---
 
