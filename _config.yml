@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Glór
+description: Glór site using the Just the Docs theme
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://glor0.github.io/celtic_jtd
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/glor0/celtic_jtd
