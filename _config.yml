@@ -9,3 +9,5 @@ aux_links:
 
 # plugins:
 #   - jekyll-multiple-languages-plugin
+
+languages: ["pl", "en", "de", "cs"]
