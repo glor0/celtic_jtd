@@ -1,0 +1,15 @@
+global:
+  tagline: English
+  about: Glór
+  # twitter: Twitter
+  # github: GitHub
+langs:
+  cs: Cestina
+  de: Deutsch
+  en: English
+  pl: Polski
+pages:
+  example: Example
+  includeexample: This is an example
+titles:
+  pagination: Pagination
