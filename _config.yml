@@ -6,3 +6,8 @@ url: https://glor0.github.io/celtic_jtd
 
 aux_links:
   Template Repository: https://github.com/glor0/celtic_jtd
+
+# plugins:
+#   - jekyll-multiple-languages-plugin
+
+languages: ["pl", "en", "de", "cs"]
